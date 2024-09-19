@@ -1,6 +1,6 @@
 # api id, hash
-API_ID = 11111111
-API_HASH = 'Your api hash'
+API_ID = 20692818
+API_HASH = '50efe89b064585db389fd37764362f29'
 
 USE_TG_BOT = False # True if you want use tg, else False
 BOT_TOKEN = '283993:kdmioieiweikiokeocki4okew' # API TOKEN get in @BotFather
@@ -19,7 +19,7 @@ WORKDIR = "sessions/"
 USE_PROXY = True # True/False
 
 # скок поинтов с игры
-POINTS = [100, 140] #[min, max]
+POINTS = [180, 220] #[min, max]
 
 # тратить алмазы
 SPEND_DIAMONDS = True # True/False
